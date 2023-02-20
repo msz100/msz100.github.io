@@ -104,8 +104,12 @@ nav ul li a:hover:after{
     margin-bottom: 30px;
 }
 .hover-link:hover {
-    color: #1c99fe;
-    background-color: #fff;
-    border: 1px solid #1c99fe;
-    box-shadow: 2px 2px 5px #ccc;
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 0;
+    height: 3px;
+    background: #7378ac;
+    transition: .3s;
+    bottom: 0;
   }
