@@ -103,3 +103,9 @@ nav ul li a:hover:after{
     margin-top: 25px;
     margin-bottom: 30px;
 }
+.hover-link:hover {
+    color: #ff6600;
+    background-color: #fff;
+    border: 2px solid #ff6600;
+    box-shadow: 2px 2px 5px #ccc;
+  }
