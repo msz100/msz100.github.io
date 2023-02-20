@@ -104,8 +104,8 @@ nav ul li a:hover:after{
     margin-bottom: 30px;
 }
 .hover-link:hover {
-    color: #ff6600;
+    color: #1c99fe;
     background-color: #fff;
-    border: 2px solid #ff6600;
+    border: 1px solid #1c99fe;
     box-shadow: 2px 2px 5px #ccc;
   }
